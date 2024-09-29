@@ -1,0 +1,32 @@
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+
+  .bg {
+    /* The image used */
+    background-image: url("./Assets/book.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    font-family: "Roboto",sans-serif;
+  }
+
+  .para1{
+    font-weight: 900;
+  }
+  .button{
+    background-color: orange;
+    border-radius: 3px;
+    border-width: 3px;
+  }
+  .para2{
+    text-decoration: underline;
+  }
+
